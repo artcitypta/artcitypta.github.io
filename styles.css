@@ -1,0 +1,6 @@
+.site-bg {
+  background:
+    radial-gradient(circle at 8% 12%, rgba(37, 99, 235, 0.11) 0%, rgba(37, 99, 235, 0) 38%),
+    radial-gradient(circle at 92% 85%, rgba(202, 138, 4, 0.1) 0%, rgba(202, 138, 4, 0) 34%),
+    linear-gradient(180deg, #f8fafc 0%, #f8f6ef 100%);
+}
